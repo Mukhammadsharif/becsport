@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/futura-pt-bold-oblique.ttf",
+      "sha1": "bb2975ba3e63c4884ec55880aecf21ce72ca9114"
+    },
+    {
+      "path": "assets/fonts/futura-pt-bold.ttf",
+      "sha1": "e3a20c35ba1fea981c58e7c25fba05ed68c4c2ce"
+    },
+    {
+      "path": "assets/fonts/futura-pt-book-oblique.ttf",
+      "sha1": "7415153e5f42609232bb993da6d9c9f4bd0ace16"
+    },
+    {
+      "path": "assets/fonts/futura-pt-book.ttf",
+      "sha1": "ff60b06311a60549c358b24c71d74962e42161e3"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-bold-oblique.ttf",
+      "sha1": "0e62a5c404eb0408ff972bbefe38881f42e2bd45"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-bold.ttf",
+      "sha1": "3f50561935e929dd72f0da6017eeaf3086f7c61a"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-book-oblique.ttf",
+      "sha1": "3c790c8ac0c6f77ae1afcc3d8ffc3d1d09c6b926"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-book.ttf",
+      "sha1": "107fb05518d4216abc1a163c20d86f69829f6faa"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-extra-bold-oblique.ttf",
+      "sha1": "18d1878c08b6175dcb9f3a2d6522b930da054535"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-extra-bold.ttf",
+      "sha1": "234434081f46d2831b3fdc2de6fb330545ab4e69"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-medium-oblique.ttf",
+      "sha1": "a9dc39d5637541fe711a5b21f7423ec5923bb4d7"
+    },
+    {
+      "path": "assets/fonts/futura-pt-cond-medium.ttf",
+      "sha1": "98f4deebfcb0bd7b72210301f259ac83323336f6"
+    },
+    {
+      "path": "assets/fonts/futura-pt-demi-oblique.ttf",
+      "sha1": "56dcb63ad90e5375ad25a83232c6a45d2a0b42cb"
+    },
+    {
+      "path": "assets/fonts/futura-pt-demi.ttf",
+      "sha1": "5f18959eb53472225f76969bb94ce5453a5cbb2a"
+    },
+    {
+      "path": "assets/fonts/futura-pt-extra-bold-oblique.ttf",
+      "sha1": "517e42ce5503ef3ad46f05f743771a73ec0003cc"
+    },
+    {
+      "path": "assets/fonts/futura-pt-extra-bold.ttf",
+      "sha1": "bd0e70a55420ffa9c8a729b58493626f2f4c19bd"
+    },
+    {
+      "path": "assets/fonts/futura-pt-heavy-oblique.ttf",
+      "sha1": "78fae0a944be88b37a3b271aaa6d97aa34b991d7"
+    },
+    {
+      "path": "assets/fonts/futura-pt-heavy.ttf",
+      "sha1": "cf831136cfbd688abcfee7342782e80be26cc0d1"
+    },
+    {
+      "path": "assets/fonts/futura-pt-light-oblique.ttf",
+      "sha1": "ed3491db332967f6f9c15ba3045903cd08f2ef27"
+    },
+    {
+      "path": "assets/fonts/futura-pt-light.ttf",
+      "sha1": "d7bdd765b9e77b44d53f747052479bb06f1c6c1e"
+    },
+    {
+      "path": "assets/fonts/futura-pt-medium-oblique.ttf",
+      "sha1": "03756c78999f39b192ca2382f5d9aedb5adb2d62"
+    },
+    {
+      "path": "assets/fonts/futura-pt-medium.ttf",
+      "sha1": "5b4c9383b7f6a2a2883b8e3b74a54a367193f64e"
+    }
+  ]
+}

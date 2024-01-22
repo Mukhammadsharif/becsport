@@ -14,6 +14,28 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-becsport-becsportTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-becsport-becsportTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		4BD1C90C2749487F91219BC4 /* futura-pt-bold-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 088F88697026475B9C8ECD7D /* futura-pt-bold-oblique.ttf */; };
+		02F566652DE8436D8740D995 /* futura-pt-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6FE12847360E4CFBB48FB43D /* futura-pt-bold.ttf */; };
+		3A46A5FE82D04556A4D04165 /* futura-pt-book-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F815A82741744839C723E2E /* futura-pt-book-oblique.ttf */; };
+		F503B8B77B94446E9D06AEFA /* futura-pt-book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0CFDAF4DF65E44FAB6C24538 /* futura-pt-book.ttf */; };
+		C1866CA25E4B4AC98AB06CC4 /* futura-pt-cond-bold-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22D9D80816F94F068B2E64EA /* futura-pt-cond-bold-oblique.ttf */; };
+		139B2F6AC262454EBD0D67CA /* futura-pt-cond-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3958D09C9BF4635A783E4C5 /* futura-pt-cond-bold.ttf */; };
+		61A1C36038544A4F9D819F5C /* futura-pt-cond-book-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3BE23021ED89455C88DECD95 /* futura-pt-cond-book-oblique.ttf */; };
+		9594F71A6AFF40B388EB87E2 /* futura-pt-cond-book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49FD6AC3088744A8AAD37D75 /* futura-pt-cond-book.ttf */; };
+		85D07F30A0AD43139C591E83 /* futura-pt-cond-extra-bold-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2164A98A02FD4A71B489B896 /* futura-pt-cond-extra-bold-oblique.ttf */; };
+		F0556D53B30C417E963C377D /* futura-pt-cond-extra-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD3F5707B6AE42658D461CE8 /* futura-pt-cond-extra-bold.ttf */; };
+		6D98A1112D514EBE99C72311 /* futura-pt-cond-medium-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 21691DA439EF45BEA1F0C9F9 /* futura-pt-cond-medium-oblique.ttf */; };
+		7E6C8129277145E7B72833B5 /* futura-pt-cond-medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8F5E15F708940A89FCB6509 /* futura-pt-cond-medium.ttf */; };
+		5F10BFFA1D1F4F159D0C67E3 /* futura-pt-demi-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 990C437F87794C949410207D /* futura-pt-demi-oblique.ttf */; };
+		1145F246676142328A367618 /* futura-pt-demi.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBD69B2DBFB2459C8CF2D4F5 /* futura-pt-demi.ttf */; };
+		BFA20E56496E4480989D661B /* futura-pt-extra-bold-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EAF9C9E3E0341E489392B76 /* futura-pt-extra-bold-oblique.ttf */; };
+		9579B46489084D9E8FFC9885 /* futura-pt-extra-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D302C474CF144F358F914880 /* futura-pt-extra-bold.ttf */; };
+		56CE0CA56B4E4065BDA1A91F /* futura-pt-heavy-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5810ED16F544877B8FB1E6A /* futura-pt-heavy-oblique.ttf */; };
+		DB6E87253B364F2FBB5348D4 /* futura-pt-heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E52BF85AFEED441CAAAB1AB5 /* futura-pt-heavy.ttf */; };
+		A1A058A220DF44C6B0B0523C /* futura-pt-light-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B590C96E9F96413882B09B3F /* futura-pt-light-oblique.ttf */; };
+		18D4A8F33C1B48068780081A /* futura-pt-light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A38BC270C1E34BEB9C90368C /* futura-pt-light.ttf */; };
+		9B4A61CAF8FB495DB48EBBA6 /* futura-pt-medium-oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90C6F6A86C8946F58D18CC39 /* futura-pt-medium-oblique.ttf */; };
+		6BEF1876DE644EFE9E95FABA /* futura-pt-medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5B3C707D1604E65A67251C0 /* futura-pt-medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +66,28 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = becsport/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-becsport-becsportTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-becsport-becsportTests.release.xcconfig"; path = "Target Support Files/Pods-becsport-becsportTests/Pods-becsport-becsportTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		088F88697026475B9C8ECD7D /* futura-pt-bold-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-bold-oblique.ttf"; path = "../assets/fonts/futura-pt-bold-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6FE12847360E4CFBB48FB43D /* futura-pt-bold.ttf */ = {isa = PBXFileReference; name = "futura-pt-bold.ttf"; path = "../assets/fonts/futura-pt-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2F815A82741744839C723E2E /* futura-pt-book-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-book-oblique.ttf"; path = "../assets/fonts/futura-pt-book-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0CFDAF4DF65E44FAB6C24538 /* futura-pt-book.ttf */ = {isa = PBXFileReference; name = "futura-pt-book.ttf"; path = "../assets/fonts/futura-pt-book.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		22D9D80816F94F068B2E64EA /* futura-pt-cond-bold-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-bold-oblique.ttf"; path = "../assets/fonts/futura-pt-cond-bold-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B3958D09C9BF4635A783E4C5 /* futura-pt-cond-bold.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-bold.ttf"; path = "../assets/fonts/futura-pt-cond-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3BE23021ED89455C88DECD95 /* futura-pt-cond-book-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-book-oblique.ttf"; path = "../assets/fonts/futura-pt-cond-book-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		49FD6AC3088744A8AAD37D75 /* futura-pt-cond-book.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-book.ttf"; path = "../assets/fonts/futura-pt-cond-book.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2164A98A02FD4A71B489B896 /* futura-pt-cond-extra-bold-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-extra-bold-oblique.ttf"; path = "../assets/fonts/futura-pt-cond-extra-bold-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AD3F5707B6AE42658D461CE8 /* futura-pt-cond-extra-bold.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-extra-bold.ttf"; path = "../assets/fonts/futura-pt-cond-extra-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		21691DA439EF45BEA1F0C9F9 /* futura-pt-cond-medium-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-medium-oblique.ttf"; path = "../assets/fonts/futura-pt-cond-medium-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F8F5E15F708940A89FCB6509 /* futura-pt-cond-medium.ttf */ = {isa = PBXFileReference; name = "futura-pt-cond-medium.ttf"; path = "../assets/fonts/futura-pt-cond-medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		990C437F87794C949410207D /* futura-pt-demi-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-demi-oblique.ttf"; path = "../assets/fonts/futura-pt-demi-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FBD69B2DBFB2459C8CF2D4F5 /* futura-pt-demi.ttf */ = {isa = PBXFileReference; name = "futura-pt-demi.ttf"; path = "../assets/fonts/futura-pt-demi.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9EAF9C9E3E0341E489392B76 /* futura-pt-extra-bold-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-extra-bold-oblique.ttf"; path = "../assets/fonts/futura-pt-extra-bold-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D302C474CF144F358F914880 /* futura-pt-extra-bold.ttf */ = {isa = PBXFileReference; name = "futura-pt-extra-bold.ttf"; path = "../assets/fonts/futura-pt-extra-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5810ED16F544877B8FB1E6A /* futura-pt-heavy-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-heavy-oblique.ttf"; path = "../assets/fonts/futura-pt-heavy-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E52BF85AFEED441CAAAB1AB5 /* futura-pt-heavy.ttf */ = {isa = PBXFileReference; name = "futura-pt-heavy.ttf"; path = "../assets/fonts/futura-pt-heavy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B590C96E9F96413882B09B3F /* futura-pt-light-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-light-oblique.ttf"; path = "../assets/fonts/futura-pt-light-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A38BC270C1E34BEB9C90368C /* futura-pt-light.ttf */ = {isa = PBXFileReference; name = "futura-pt-light.ttf"; path = "../assets/fonts/futura-pt-light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		90C6F6A86C8946F58D18CC39 /* futura-pt-medium-oblique.ttf */ = {isa = PBXFileReference; name = "futura-pt-medium-oblique.ttf"; path = "../assets/fonts/futura-pt-medium-oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D5B3C707D1604E65A67251C0 /* futura-pt-medium.ttf */ = {isa = PBXFileReference; name = "futura-pt-medium.ttf"; path = "../assets/fonts/futura-pt-medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +166,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				EEB75FF1A0B142AFABF30248 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +192,36 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		EEB75FF1A0B142AFABF30248 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				088F88697026475B9C8ECD7D /* futura-pt-bold-oblique.ttf */,
+				6FE12847360E4CFBB48FB43D /* futura-pt-bold.ttf */,
+				2F815A82741744839C723E2E /* futura-pt-book-oblique.ttf */,
+				0CFDAF4DF65E44FAB6C24538 /* futura-pt-book.ttf */,
+				22D9D80816F94F068B2E64EA /* futura-pt-cond-bold-oblique.ttf */,
+				B3958D09C9BF4635A783E4C5 /* futura-pt-cond-bold.ttf */,
+				3BE23021ED89455C88DECD95 /* futura-pt-cond-book-oblique.ttf */,
+				49FD6AC3088744A8AAD37D75 /* futura-pt-cond-book.ttf */,
+				2164A98A02FD4A71B489B896 /* futura-pt-cond-extra-bold-oblique.ttf */,
+				AD3F5707B6AE42658D461CE8 /* futura-pt-cond-extra-bold.ttf */,
+				21691DA439EF45BEA1F0C9F9 /* futura-pt-cond-medium-oblique.ttf */,
+				F8F5E15F708940A89FCB6509 /* futura-pt-cond-medium.ttf */,
+				990C437F87794C949410207D /* futura-pt-demi-oblique.ttf */,
+				FBD69B2DBFB2459C8CF2D4F5 /* futura-pt-demi.ttf */,
+				9EAF9C9E3E0341E489392B76 /* futura-pt-extra-bold-oblique.ttf */,
+				D302C474CF144F358F914880 /* futura-pt-extra-bold.ttf */,
+				F5810ED16F544877B8FB1E6A /* futura-pt-heavy-oblique.ttf */,
+				E52BF85AFEED441CAAAB1AB5 /* futura-pt-heavy.ttf */,
+				B590C96E9F96413882B09B3F /* futura-pt-light-oblique.ttf */,
+				A38BC270C1E34BEB9C90368C /* futura-pt-light.ttf */,
+				90C6F6A86C8946F58D18CC39 /* futura-pt-medium-oblique.ttf */,
+				D5B3C707D1604E65A67251C0 /* futura-pt-medium.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +318,28 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				4BD1C90C2749487F91219BC4 /* futura-pt-bold-oblique.ttf in Resources */,
+				02F566652DE8436D8740D995 /* futura-pt-bold.ttf in Resources */,
+				3A46A5FE82D04556A4D04165 /* futura-pt-book-oblique.ttf in Resources */,
+				F503B8B77B94446E9D06AEFA /* futura-pt-book.ttf in Resources */,
+				C1866CA25E4B4AC98AB06CC4 /* futura-pt-cond-bold-oblique.ttf in Resources */,
+				139B2F6AC262454EBD0D67CA /* futura-pt-cond-bold.ttf in Resources */,
+				61A1C36038544A4F9D819F5C /* futura-pt-cond-book-oblique.ttf in Resources */,
+				9594F71A6AFF40B388EB87E2 /* futura-pt-cond-book.ttf in Resources */,
+				85D07F30A0AD43139C591E83 /* futura-pt-cond-extra-bold-oblique.ttf in Resources */,
+				F0556D53B30C417E963C377D /* futura-pt-cond-extra-bold.ttf in Resources */,
+				6D98A1112D514EBE99C72311 /* futura-pt-cond-medium-oblique.ttf in Resources */,
+				7E6C8129277145E7B72833B5 /* futura-pt-cond-medium.ttf in Resources */,
+				5F10BFFA1D1F4F159D0C67E3 /* futura-pt-demi-oblique.ttf in Resources */,
+				1145F246676142328A367618 /* futura-pt-demi.ttf in Resources */,
+				BFA20E56496E4480989D661B /* futura-pt-extra-bold-oblique.ttf in Resources */,
+				9579B46489084D9E8FFC9885 /* futura-pt-extra-bold.ttf in Resources */,
+				56CE0CA56B4E4065BDA1A91F /* futura-pt-heavy-oblique.ttf in Resources */,
+				DB6E87253B364F2FBB5348D4 /* futura-pt-heavy.ttf in Resources */,
+				A1A058A220DF44C6B0B0523C /* futura-pt-light-oblique.ttf in Resources */,
+				18D4A8F33C1B48068780081A /* futura-pt-light.ttf in Resources */,
+				9B4A61CAF8FB495DB48EBBA6 /* futura-pt-medium-oblique.ttf in Resources */,
+				6BEF1876DE644EFE9E95FABA /* futura-pt-medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,7 +641,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -572,6 +669,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -579,7 +677,14 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-Wl",
+					"-ld_classic",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -616,7 +721,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -636,6 +741,7 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -643,7 +749,14 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-Wl",
+					"-ld_classic",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
